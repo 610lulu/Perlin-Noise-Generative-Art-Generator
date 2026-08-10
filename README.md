@@ -56,8 +56,10 @@ An interactive generative art tool powered by a Perlin noise flow field. Thousan
 
 ## License
 
-- Copyright © 2026 **610lulu**. All rights reserved.
-- This project may be used only for personal, non-commercial learning and educational purposes.
-- Commercial use, monetization, sale, sublicensing, and use in paid products, services, or client work are prohibited.
-- Redistribution or public hosting of the original or modified project requires prior written permission.
+- Copyright © 2026 **610lulu**. All rights reserved in the project source code, interface design, and documentation.
+- Anyone may view and fork this public repository through GitHub.
+- The project materials and derivative code may be used only for personal, non-commercial learning and educational purposes.
+- Commercial use, monetization, sale, sublicensing, and use of the project materials or derivative code in paid products, services, or client work are prohibited.
+- Users own the artwork they generate and export. The project owner claims no ownership over User Output.
+- Users may use their own exported artwork, including for commercial purposes, subject to applicable law and third-party rights.
 - See the full [LICENSE](LICENSE) for all terms.
