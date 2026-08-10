@@ -53,3 +53,11 @@ An interactive generative art tool powered by a Perlin noise flow field. Thousan
 - Canvas 2D API
 - Multi-octave noise sampling
 - Particle-based flow field animation
+
+## License
+
+- Copyright © 2026 **610lulu**. All rights reserved.
+- This project may be used only for personal, non-commercial learning and educational purposes.
+- Commercial use, monetization, sale, sublicensing, and use in paid products, services, or client work are prohibited.
+- Redistribution or public hosting of the original or modified project requires prior written permission.
+- See the full [LICENSE](LICENSE) for all terms.
