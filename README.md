@@ -1,56 +1,55 @@
 # Perlin Noise Generative Art Generator
 
-一个基于 **Perlin Noise Flow Field** 的交互式生成艺术工具。粒子会沿噪声构成的无形力场持续运动，形成流动、叠加且不断演化的视觉轨迹。
+An interactive generative art tool powered by a Perlin noise flow field. Thousands of particles follow an evolving invisible force field to create fluid, layered, and ever-changing visual trails.
 
-> 柏林噪声流场 · 追踪无形力场中的粒子轨迹
+> Trace particle paths through an invisible noise-driven force field.
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Open%20Generator-3b82f6?style=for-the-badge)](https://610lulu.github.io/Perlin-Noise-Generative-Art-Generator/Perlin-Noise-Generative-Art-Generator.html)
 
 ## Live Site
 
-**[打开在线生成器 →](https://610lulu.github.io/Perlin-Noise-Generative-Art-Generator/Perlin-Noise-Generative-Art-Generator.html)**
+- **[Open the live generator →](https://610lulu.github.io/Perlin-Noise-Generative-Art-Generator/Perlin-Noise-Generative-Art-Generator.html)**
+- No installation or build step is required.
+- A modern web browser is all you need.
 
-无需安装依赖，使用现代浏览器即可直接体验。
+## Features
 
-## 功能介绍
+- **Real-time noise flow field** — Particles continuously follow a dynamic noise field to create unique paths.
+- **Six color palettes** — Choose from Midnight Archive, Rainy Neon, Monochrome Film, Misty Blues, Blood Trace, and Cold Steel.
+- **Adjustable parameters** — Fine-tune particle count, noise scale, movement speed, time evolution, particle size, and opacity.
+- **Interactive mouse disturbance** — Click and drag across the canvas to push nearby particles away.
+- **Playback and canvas controls** — Pause, resume, reset, or clear the animation at any time.
+- **PNG export** — Save the current artwork as a timestamped PNG image.
 
-- **实时噪声流场**：粒子沿动态噪声方向持续运动，生成独一无二的轨迹。
-- **六套视觉配色**：午夜档案、雨夜霓虹、黑白胶片、迷雾蓝调、血迹线索和冷钢。
-- **自由调整参数**：控制粒子数量、噪声尺度、流动速度、时间演化、粒子大小和透明度。
-- **鼠标交互扰动**：在画布上按住并拖动，为附近粒子施加排斥力。
-- **播放与画布控制**：支持暂停、播放、重置和清空。
-- **PNG 图片导出**：点击“存档”即可保存当前生成作品。
+## Controls
 
-## 参数说明
+- **Particles** — Adjusts the number of particles on the canvas.
+- **Scale** — Controls the spatial scale of the noise field.
+- **Speed** — Adjusts how quickly the particles move.
+- **Time** — Controls how quickly the noise field evolves.
+- **Size** — Adjusts the rendered particle size.
+- **Alpha** — Controls the opacity of particles and their trails.
 
-| 参数 | 作用 |
-| --- | --- |
-| Particles | 调整画布中的粒子数量 |
-| Scale | 控制噪声场的空间尺度 |
-| Speed | 调整粒子的流动速度 |
-| Time | 控制噪声场随时间演化的速度 |
-| Size | 调整粒子的绘制尺寸 |
-| Alpha | 调整粒子与轨迹的透明度 |
+## How to Use
 
-## 使用方法
+- Open the [Live Site](https://610lulu.github.io/Perlin-Noise-Generative-Art-Generator/Perlin-Noise-Generative-Art-Generator.html).
+- Select a color swatch below the canvas to switch palettes.
+- Move the sliders to reshape the flow field in real time.
+- Click and drag on the canvas to disturb nearby particle paths.
+- Use **Pause**, **Reset**, or **Clear** to control the animation.
+- Select **Save** to export the current canvas as a PNG image.
 
-1. 打开 [Live Site](https://610lulu.github.io/Perlin-Noise-Generative-Art-Generator/Perlin-Noise-Generative-Art-Generator.html)。
-2. 点击画布下方的色块切换配色。
-3. 拖动参数滑块，观察流场实时变化。
-4. 在画布上按住鼠标并拖动，扰动粒子轨迹。
-5. 点击“存档”将当前画面导出为 PNG。
+## Run Locally
 
-## 本地运行
+- Download or clone this repository.
+- Open `Perlin-Noise-Generative-Art-Generator.html` in a modern browser.
+- No package manager, build tool, or third-party JavaScript dependency is required.
 
-项目是一个独立 HTML 文件，不需要构建工具或第三方 JavaScript 依赖。
-
-1. 下载或克隆本仓库。
-2. 使用浏览器打开 `Perlin-Noise-Generative-Art-Generator.html`。
-
-## 技术实现
+## Built With
 
 - HTML5
 - CSS3
 - JavaScript
 - Canvas 2D API
-- 多层噪声采样与粒子流场动画
+- Multi-octave noise sampling
+- Particle-based flow field animation
