@@ -1,90 +1,9 @@
-NON-COMMERCIAL LEARNING LICENSE
+Copyright (c) 2026 610LULU
 
-Copyright (c) 2026 610lulu. All rights reserved.
+All rights reserved.
 
-1. PROJECT OWNERSHIP
+This repository and its contents are provided for portfolio demonstration and educational review purposes only.
 
-All copyright, title, and intellectual property rights in the project
-materials, including the source code, interface design, documentation, and
-related materials, are and remain the exclusive property of 610lulu.
+No permission is granted to copy, modify, distribute, publish, or use any part of this repository for commercial purposes without prior written permission from the copyright holder.
 
-"Project materials" do not include artwork generated and exported by an
-individual user through use of the project ("User Output").
-
-2. USER OUTPUT OWNERSHIP
-
-As between 610lulu and the user, each user owns the User Output that they
-generate and export using this project. 610lulu claims no ownership in a
-user's User Output solely because it was created with this project.
-
-Users may use, reproduce, modify, publish, distribute, and commercially use
-their own User Output, subject to applicable law and any third-party rights.
-
-Ownership of User Output does not transfer or grant any ownership or
-commercial-use rights in the project's source code, interface design,
-documentation, or other project materials.
-
-3. VIEWING AND FORKING
-
-Anyone may view this public repository and fork it through GitHub as permitted
-by GitHub's Terms of Service and platform functionality.
-
-A GitHub fork may be kept, viewed, run, and modified for personal,
-non-commercial learning, educational use, or contribution back to this
-project. Permission to fork does not grant permission to use the project
-materials or derivative code commercially.
-
-4. LIMITED PERMISSION
-
-Permission is granted to download, run, and modify the project materials
-solely for personal, non-commercial learning and educational purposes, subject
-to this license.
-
-This permission is non-exclusive, non-transferable, and revocable. It does not
-transfer ownership of any project material.
-
-5. PROHIBITED USES
-
-You may not, without prior written permission from the copyright holder:
-
-- use the project materials or derivative code for any commercial purpose;
-- sell, license, sublicense, rent, monetize, or otherwise commercially exploit
-  the project materials or derivative code;
-- use the project materials or derivative code in paid products, services,
-  client work, advertising, revenue-generating activities, or other business
-  operations;
-- redistribute, republish, or publicly host the original or modified project
-  outside GitHub's permitted fork functionality; or
-- remove or alter any copyright or license notice.
-
-These restrictions apply to the project materials and derivative code, not to
-a user's own User Output as described in Section 2.
-
-6. ATTRIBUTION
-
-Any copy or fork of the project materials must retain this license and the
-copyright notice above.
-
-7. COMMERCIAL LICENSING
-
-For commercial use of the project materials or derivative code, or for any
-permission beyond the limited permission granted here, you must obtain prior
-written authorization from the copyright holder.
-
-8. TERMINATION
-
-Any violation of these terms automatically terminates the permission granted
-under this license. Upon termination, you must stop using the project
-materials and delete all unauthorized copies in your possession or control.
-This termination does not affect ownership of User Output lawfully generated
-before termination.
-
-9. DISCLAIMER
-
-THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
-PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM,
-DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE PROJECT OR ITS USE.
-
-All rights not expressly granted in this license are reserved by 610lulu.
+The Smart Care prototype is an interaction design research project. It is not a medical device and does not provide diagnosis, treatment, or clinical decision support.
